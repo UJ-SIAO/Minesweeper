@@ -1,0 +1,10 @@
+lab3\pnggccrd.o: ..\png\pnggccrd.c
+lab3\pnggccrd.o: ..\png\png.h
+lab3\pnggccrd.o: ..\png\zlib.h
+lab3\pnggccrd.o: ..\png\zconf.h
+lab3\pnggccrd.o: ..\png\pngconf.h
+lab3\pnggccrd.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\setjmp.h
+lab3\pnggccrd.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+lab3\pnggccrd.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+lab3\pnggccrd.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+lab3\pnggccrd.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
